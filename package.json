@@ -1,0 +1,21 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de JavaScript Profesional",
+  "license": "MIT",
+  "author": "Jhair Vargas <jhavargashe@gmail.com>",
+  "keywords": [
+    "platzi"
+  ],
+  "scripts": {
+    "start": "parcel index.html ejercicios/index.html ejercicios/**/*.html"
+  },
+  "devDependecies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.6"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ]
+}
